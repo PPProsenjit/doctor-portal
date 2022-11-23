@@ -6,8 +6,6 @@ import { DayPicker } from 'react-day-picker';
 
 const AppointmentBanner = ({selected, setSelected}) => {
 
-    
-
     return (
         <header style={{ background: `url(${appointment})` }}>
             <div className="hero text-white">
